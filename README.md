@@ -249,7 +249,7 @@ Go to category [Installation](https://github.com/OhMyGuus/BetterCrewlink-mobile#
 
 Go to category [Web](https://web.bettercrewl.ink/) to play Among Us with BetterCrewLink on Console. (Requires a PC Player)
 
-###### Note: XBOX and PlayStation ports for Among Us is still coming soon
+###### Note: XBOX and PlayStation ports for Among Us is still coming soon (12/14/21)
 
 <!-- DEVELOPMENT -->
 ## Development
